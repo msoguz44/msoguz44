@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning AI, Machine Learning, Image processing and Data Science.
 
 -------
-<a href=”https://www.linkedin.com/in/msoguz/">
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/msoguz)
+
 
 -------
 
